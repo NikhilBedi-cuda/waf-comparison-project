@@ -1,13 +1,8 @@
 {
   "servers": {
-    "github-nbedi-personal": {
-      "type": "http",
-      "url": "https://gwa63kx1-4xp4r634bq-uc.a.run.app/github-nbedi-personal"
-    },
     "github-repository-reader": {
       "type": "http",
       "url": "https://gwa63kx1-4xp4r634bq-uc.a.run.app/p/gsc4df0tu4mz"
-    }
     }
   }
 }
