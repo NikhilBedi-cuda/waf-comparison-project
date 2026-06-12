@@ -2,7 +2,7 @@
 
 # Web Application Firewall (WAF) Comparison Project
 
-## Overview of the WAF project
+## Overview of the WAF project 2
 
 This project repository contains testing datasets and tools to compare WAF efficacy in the two most important categories:
 
