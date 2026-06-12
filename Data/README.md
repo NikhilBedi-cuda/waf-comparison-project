@@ -1,6 +1,6 @@
 # WAF Comparison Project Data Sets
 
-## Legitimate data set
+## Legit data set 
 The Legitimate data set is located and loaded from [here](https://downloads.openappsec.io/waf-comparison-project/legitimate.zip)
 
 
