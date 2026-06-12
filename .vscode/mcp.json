@@ -1,12 +1,5 @@
 {
   "servers": {
-    "github-repository-reader": {
-      "type": "http",
-      "url": "https://gwa63kx1-4xp4r634bq-uc.a.run.app/p/gsc4df0tu4mz",
-      "headers": {
-        "Authorization": "Bearer dcdaaa4ca9a6b915ac800b4e5ecb6ba9de937060f11b17ca56f23e0ee9aebfe6"
-      }
-    },
     "github": {
       "type": "http",
       "url": "https://gwa63kx1-4xp4r634bq-uc.a.run.app/github"
